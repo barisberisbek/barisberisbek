@@ -38,7 +38,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=barisberisbek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=barisberisbek&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=barisberisbek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barisberisbek&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=barisberisbek&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
