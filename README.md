@@ -21,7 +21,7 @@
 
 # 💻 Tech Stack:
 
-[![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/40px-Java_programming_language_logo.svg.png)](https://www.java.com/) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/40px-Java_programming_language_logo.svg.png)](https://www.java.com/) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge&logo=circleci&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-0096D6?style=for-the-badge&logo=ros&logoColor=white)
 
 # 📊 GitHub Stats:
 
@@ -41,7 +41,7 @@
 <div align="center">
   <h2>💰 Support Me by Donating</h2>
   <a href="https://buymeacoffee.com/barisberisbek">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" width="150">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" width="100">
   </a>
 </div>
 
