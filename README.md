@@ -4,7 +4,7 @@
 
 👨‍💻  I'm a computer engineering candidate passionate about contributing to open-source, creating technology to elevate people, and building community.
 
-🏢  I am currently seeking an internship opportunity in mobile app & game development.
+🏢  I am currently seeking an internship opportunity in mobile development
 
 📩  You can reach me at barisberisbex@gmail.com
 
